@@ -1,11 +1,11 @@
 # Sample Introduction Template
 
-Hey! I'm ABC. 
+Hey! I'm Afeefa Ahmad. 
 
-I am proficient/skilled  in ____________________ and _____________________;
+I am proficient/skilled  in ___c ,cpp,java_________________ and ___python__________________;
 
-I study at __
+I study at SVIT Vasad __
 
-My hobbies are ___
+My hobbies are _Playing Badminton__
 
 or any Tag Line!
