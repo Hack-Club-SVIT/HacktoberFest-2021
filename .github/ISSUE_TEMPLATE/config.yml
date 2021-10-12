@@ -1,0 +1,18 @@
+name: HacktoberFest 2021
+title: "[HacktoberFest- 2021]: "
+labels: ["hacktoberfest2021"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: Tell us about your experiance!
+  - type: textarea
+    id: next_workshop
+    attributes:
+      label: What technology would you like to learn next??
+      description: What workshop should we conduct next?
