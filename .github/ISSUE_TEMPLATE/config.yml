@@ -2,15 +2,11 @@ name: HacktoberFest 2021
 title: "[HacktoberFest- 2021]: "
 labels: ["hacktoberfest2021"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: feedback
     attributes:
       label: Feedback
-      description: Tell us about your experiance!
+      description: Tell us about your experience!
   - type: textarea
     id: next_workshop
     attributes:
